@@ -2,6 +2,7 @@
 
 @author: Andrei Iancu
 credits: ElasticSearch documentation (ElasticSearch community and maintainers).
+project details: Masters Degree Project, not maintained anymore, was just a PoC.
 
 This software platform uses ElasticSearch's powerfull search engines in order to process and compare text documents.
 
